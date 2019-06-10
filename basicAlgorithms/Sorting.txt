@@ -1,0 +1,14 @@
+Types of sorting 
+In-place sorting - selection, insertion
+External sorting - Merge sort
+Stable sorting - Equal keys appear in same order as that of input
+
+Selection sort - Repetedly finding minimum element from unsorted part and putting it at the beginning
+Time complexity - O(n^2)
+Auxiliary space - O(1)
+
+Bubble Sort - repetedly swapping adjesent elements if they are in wrong order
+Worst and Avg complexity - O(n*n)
+Best case complexity - O(n)
+Auxiliary space - O(1)
+

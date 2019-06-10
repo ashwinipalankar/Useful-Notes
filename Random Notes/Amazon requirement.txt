@@ -1,0 +1,8 @@
+· Bachelor's or Master's in Computer Science and at least two years of experience
+· Knowledge of data structures, algorithms, object oriented programming concepts, operating systems, and distributed systems
+· Demonstrated experience with software testing methods, such as functional testing, stress testing, performance testing, and failure injection.
+· Experience work closely with other developers to understand their needs and issues and to develop cooperative solutions.
+· Knowledge of professional software engineering practices & best practices for the full software development life cycle, including coding standards, code reviews, source control management, build processes, testing, and operations.
+· Ability to take a project from scoping requirements through actual launch of the project
+· Experience in communicating with users, other technical teams, and management to collect requirements, describe software product features, and technical designs.
+Strong written and verbal communication skills

@@ -1,0 +1,18 @@
+One DB can be opened by many instances concurrently, known as RAC (Real Application Cluster)
+Web Application - any application with which users communicate with HTTP
+With connetion pooling, application server establishes small number of persistent DB sessions and make them available on demand.
+
+
+Application stages
+Design
+Develop
+Test
+Deploy
+Maintain
+Improve
+
+Design pattern - a genearla reusable solution to commonaly occurring problem to speed up development process by providing tested, proven  developemnt paradigm.
+types if design pattern - Creational, Structural, Behavioural
+
+White box testing - Code reviews, bad code practices, component level testing, use tools like debugger and source code analysers.
+
