@@ -1,0 +1,1 @@
+A persistent map - generates hash code for each object ( sequence of bytes) using SHA1 algorithm and stores as value.
