@@ -1,0 +1,2 @@
+Run java file directly with compiling (no .class file)
+Run scripts written in java directly from cmd using shabang notation
