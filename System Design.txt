@@ -1,0 +1,5 @@
+Useful link - https://leetcode.com/discuss/career/216554/From-0-to-clearing-UberAppleAmazonLinkedInGoogle
+
+Notes
+https://github.com/donnemartin/system-design-primer#system-design-topics-start-here
+
